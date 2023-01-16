@@ -8,20 +8,11 @@ const Footer = (props) => {
   <div className="container">
     <div className="row justify-content-around mt-5">
         <div className="col-3"> 
-            <img src={icon} alt="" />
+            <img className='efood' src={icon} alt="" />
           <ul className='list_ati'>
-          <div className="addres">
-          <i class="fa-sharp fa-solid fa-location-dot"></i>
-            <li className='serbiya'>Dhaka, Bangladesh</li>
-          </div>
-          <div className="addres">
-          <i class="fa-solid fa-phone-volume"></i>
-            <li className='serbiya'>0943833399</li>
-          </div>
-          <div className="addres">
-          <i class="fa-solid fa-envelope"></i>
-            <li className='serbiya'>support@efood.com</li>
-          </div>
+            <li className='serbiya'> <i class="fa-sharp fa-solid fa-location-dot"></i>Dhaka, Bangladesh</li>
+            <li className='serbiya'><i class="fa-solid fa-phone-volume"></i> 0943833399</li>
+            <li className='serbiya'>  <i class="fa-solid fa-envelope"></i>   support@efood.com</li>
           </ul>
           <div className="callsenter">
             <div className="defo">

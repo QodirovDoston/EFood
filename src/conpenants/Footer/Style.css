@@ -32,6 +32,11 @@ color: #37383D;
 width: 39px;
 height: 39px;
 background: #EEEEEF;
+justify-content: center;
+display: flex;
+text-align: center;
+align-items: center;
+font-size: 20px;
 }
 .privade{
     font-family: 'Rubik';
@@ -40,4 +45,7 @@ font-size: 14px;
 line-height: 14px;
 color: #646464;
 
+}
+.efood{
+    margin: 17px 20px 20px 35px;
 }
