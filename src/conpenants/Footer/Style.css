@@ -11,3 +11,33 @@ letter-spacing: 0.01em;
 color: #37383D;
 
 }
+.serbiya1{
+    font-family: 'Rubik';
+font-weight: 300;
+font-size: 18px;
+line-height: 50px;
+color: #37383D;
+
+}
+.addres{
+    display: flex;
+}
+.callsenter{
+    display: flex ;
+  gap: 25px;
+  margin-left:20px ;
+}
+.defo{
+    border-radius: 50%;
+width: 39px;
+height: 39px;
+background: #EEEEEF;
+}
+.privade{
+    font-family: 'Rubik';
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+color: #646464;
+
+}
