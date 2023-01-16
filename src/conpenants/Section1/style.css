@@ -1,0 +1,38 @@
+.des{
+    display: flex;
+}
+.btu{
+    background: #FF7A50;
+    box-shadow: 0px 5px 12px rgba(255, 104, 56, 0.19);
+    border-radius: 20px 20px 0px 20px;
+    padding: -0px 50px -0px 50px;
+    border: none;
+}
+.oycard{
+    height: 417px;
+    background: #FFFFFF;
+    border-radius: 53px 5px;
+    width: 361px;
+height: 447px;
+}
+.ocklas{
+    margin: 10px 14px 4px 0px;
+font-family: 'Rubik';
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+color: #363853;
+opacity: 0.9;
+}
+.whatch{
+    height: 23px;
+    font-size: 15px;
+    width: 22px;
+    margin:13px 10px 10px 20px;
+}
+.Blaze{
+font-family: 'Rubik';
+font-size: 24px;
+color: #363853;
+margin: 22px 0px 10px 20px;
+}

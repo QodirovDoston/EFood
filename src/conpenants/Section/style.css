@@ -1,0 +1,81 @@
+.super1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Rubik';
+    font-size: 40px;
+    line-height: 43px;
+    text-transform: capitalize;
+    color: #363853;
+    margin-top: 98px;
+    margin-bottom: 60px;
+}
+
+.super1 span {
+    color: #FF7A50;
+}
+
+.card {
+    margin-top: 40px;
+    width: 208px;
+    height: 369px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    border: none;
+}
+
+.card_btn {
+    width: 106px;
+    height: 32px;
+    background: #FF7A50;
+    border-radius: 2px;
+    border: none;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.price {
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 15px;
+    color: #363853;
+    text-align: center;
+}
+
+.malumot {
+    font-family: 'Rubik';
+    font-size: 15px;
+    color: #363853;
+    text-align: center;
+    margin-top: 25px;
+}
+.photo{
+    width: 80%;
+    margin: auto;
+}
+.yetkazib{
+ display: flex;
+ margin-right: 29px;
+}
+.fast{
+    font-family: 'Rubik';
+font-size: 24px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+margin-left: 23px;
+}
+.poragrow{
+    margin-bottom: 35px;
+}
+.food{
+    margin-top: 120px;
+}
+.btum{
+    width: 176px;
+height: 58px;
+background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 30px 30px 1px 30px;
+margin-top: 30px;
+border: none;
+}

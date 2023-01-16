@@ -1,0 +1,59 @@
+.both_price{
+display: flex;
+margin-top: 40px;
+gap: 50px;
+}
+.export{
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+     font-family: 'Rubik';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 30px 10px 30px;
+    border:none;
+}
+.scuter{
+    width: 120%;
+    margin-top: 40px;
+}
+.super{
+    font-family: 'Rubik';
+font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+color: #363853;
+margin-top: 190px;
+margin-bottom: 23px;
+
+}
+.super span{
+    font-family: 'Rubik';
+font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+color: #FF7A50;
+}
+.poragrow{
+    font-family: 'Rubik';
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+
+}
+.app{
+    font-family: 'Rubik';
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+margin-top: 8px;
+
+}
