@@ -11,10 +11,10 @@ const imfdf = require("../../img/img02.png")
   return(
     <>
     <div className="container">
-        <div className="row justify-content-between">
+        <div  id='fut' className="row justify-content-between">
             <h1 className='super1'>What Our Client Are <span>Saying </span></h1>
             <div className="col-5">
-            <img src={imfdf} alt="" />
+            <img className='imfd' src={imfdf} alt="" />
             </div>
 
             <div className="col-6">

@@ -10,8 +10,8 @@ const pia3 = require("../../img/Group.png")
  const Section1 = (props) => {
     return (
         <>
-            <div className="container">
-                <div className="row justify-content-between ">
+            <div  className="container">
+                <div id='fut' className="row justify-content-between ">
                     <h1 className='super1'>Top Food <span>restaurant</span></h1>
                     <div className="col-3 ">
                         <div className="oycard">
@@ -49,7 +49,7 @@ const pia3 = require("../../img/Group.png")
                         </div>
                     </div>
                 </div>
-                <div className="row justify-content-between mt-5">
+                <div id='fut' className="row justify-content-between mt-5">
                     <div className="col-3 ">
                         <div className="oycard">
                             <img src={pia1} alt="" />

@@ -10,7 +10,7 @@ const food = require('../../img/food delivery 4.png')
     return (
         <>
             <div className="container">
-            <div className="row ">
+            <div id='fut' className="row ">
                     <div className="col-5">
                         <img className='food' src={food} alt="" />
                     </div>

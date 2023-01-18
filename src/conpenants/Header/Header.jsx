@@ -6,7 +6,7 @@ const scuter = require("../../img/Scooter Guy.png")
   return (
     <div>
       <div className="container">
-        <div className="row">
+        <div  id='fut' className="row">
           <div className="col-5">
             <h1 className='super'>super fast <span>Food
               delivery</span> service</h1>

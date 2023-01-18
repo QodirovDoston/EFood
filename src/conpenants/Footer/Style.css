@@ -49,3 +49,14 @@ color: #646464;
 .efood{
     margin: 17px 20px 20px 35px;
 }
+@media (max-width: 575px){
+    #kichik{
+        width: 74%;
+    }
+    .privade{
+        font-weight: 800;
+        font-size: 6px;
+        line-height: 20px;
+         
+    }
+}

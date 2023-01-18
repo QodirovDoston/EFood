@@ -57,3 +57,30 @@ color: #363853;
 margin-top: 8px;
 
 }
+
+@media (max-width: 575px){
+
+.super {
+    text-align: center;
+    margin: auto;
+    font-weight: 200;
+    font-size: 33px;
+    line-height: 46px;
+    color: #363853;
+    margin-top: 10px;
+    margin-bottom: 23px;
+}
+.super span {
+    font-weight: 200;
+    font-size: 33px;
+    line-height: 46px;
+    color: #FF7A50;
+    margin-top: 10px;
+    margin-bottom: 23px;
+}
+.poragrow {
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 20px;
+}
+}

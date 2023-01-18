@@ -7,7 +7,7 @@ const Footer = (props) => {
     <>
   <div className="container">
     <div className="row justify-content-around mt-5">
-        <div className="col-3"> 
+        <div id='kichik' className="col-3"> 
             <img className='efood' src={icon} alt="" />
           <ul className='list_ati'>
             <li className='serbiya'> <i class="fa-sharp fa-solid fa-location-dot"></i>Dhaka, Bangladesh</li>
@@ -29,7 +29,7 @@ const Footer = (props) => {
             </div>
           </div>
         </div>
-        <div className="col-2">
+        <div id='kichik' className="col-2">
           <ul className='list_ati'>
             <li className='serbiya'>Service</li>
             <li className='serbiya1'>How it works</li>
@@ -38,7 +38,7 @@ const Footer = (props) => {
             <li className='serbiya1'>Menu</li>
           </ul>
         </div>
-        <div className="col-2">
+        <div id='kichik' className="col-2">
           <ul className='list_ati'>
             <li className='serbiya'>Company</li>
             <li className='serbiya1'>About Us</li>
@@ -47,7 +47,7 @@ const Footer = (props) => {
             <li className='serbiya1'>New users FAQ</li>
           </ul>
         </div>
-        <div className="col-2">
+        <div id='kichik' className="col-2">
           <ul className='list_ati'>
             <li className='serbiya'> Supports</li>
             <li className='serbiya1'>Help center</li>
@@ -56,7 +56,7 @@ const Footer = (props) => {
             <li className='serbiya1'>Terms conditins</li>
           </ul>
         </div>
-        <div className="col-2">
+        <div id='kichik' className="col-2">
           <ul className='list_ati'>
             <li className='serbiya'>Resources</li>
             <li className='serbiya1'>Download app</li>

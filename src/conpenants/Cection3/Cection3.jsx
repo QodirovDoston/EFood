@@ -10,7 +10,7 @@ const imfwe = require('../../img/img04.png')
   return(
     <>
      <div className="container">
-        <div className="row justify-content-between">
+        <div  id='fut' className="row justify-content-between">
             <div className="col-5">
                 <h1 className='assum'>Download  Our <span>Mobile App</span></h1>
                 <p className='poragrow '>It's all at your fingertips -- the restaurants you love. Find the right food to suit your mood, and make the first bite last. Go ahead, download app and get 50% discount</p>

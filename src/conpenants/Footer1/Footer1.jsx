@@ -10,9 +10,9 @@ import './style.css'
      return(
          <>
     <div className="container">
-        <div className="row justify-content-center mt-5">
+        <div  className="row justify-content-center mt-5">
             <div className="col-10">
-                <div className="bigSea">
+                <div id='inputt' className="bigSea">
                     <h1 className='subsc'>Subscribe to get the Latest Offer</h1>
                     <p className='get'>Get our daily updates by subscribing to our newspaper, please drop your email below</p>
                      <div className="input">

@@ -16,7 +16,7 @@ const Star = require('../../img/Star.png')
   return(
     <div>
         <div className="container">
-            <div className="row mt-3 justify-content-between">
+            <div id='cards' className="row mt-3 justify-content-between">
                 <div className="col-12">
                     <h1 className='super1'>Our popular <span>Category</span>  </h1>
                 </div>
