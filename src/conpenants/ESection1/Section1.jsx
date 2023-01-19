@@ -15,7 +15,7 @@ const pia3 = require("../../img/Group.png")
                     <h1 className='super1'>Top Food <span>restaurant</span></h1>
                     <div className="col-3 ">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />
@@ -27,7 +27,7 @@ const pia3 = require("../../img/Group.png")
 
                     <div className="col-3">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />
@@ -39,7 +39,7 @@ const pia3 = require("../../img/Group.png")
 
                     <div className="col-3">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />
@@ -52,7 +52,7 @@ const pia3 = require("../../img/Group.png")
                 <div id='fut' className="row justify-content-between mt-5">
                     <div className="col-3 ">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />
@@ -64,7 +64,7 @@ const pia3 = require("../../img/Group.png")
 
                     <div className="col-3">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />
@@ -76,7 +76,7 @@ const pia3 = require("../../img/Group.png")
 
                     <div className="col-3">
                         <div className="oycard">
-                            <img src={pia1} alt="" />
+                            <img id="parody" src={pia1} alt="" />
                             <p className='Blaze'>Blaze Pizza</p>
                             <div className="des">
                                 <img className='whatch' src={pia3} alt="" />

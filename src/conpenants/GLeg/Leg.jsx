@@ -16,7 +16,6 @@ const imfdf = require("../../img/img02.png")
             <div className="col-5">
             <img className='imfd' src={imfdf} alt="" />
             </div>
-
             <div className="col-6">
             <p className='pora'>EFood has the most intriguing food order system in the country. UI in both their app and web Is very simple and easy to use, enhancing the UX. Their delivery men are also quite professional and knows the neighborhood well. Till now I never had to guide them to my address for delivery; </p>
             <p className='Jole'>Anglina Jole</p>

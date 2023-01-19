@@ -69,11 +69,16 @@ opacity: 0.8;
     #inputt {
         width: 314px;
         height: 400px;
+        margin-top: -20px;
 
     }
     .subsc{
         font-size: 27px;
 
+    }
+    .get{
+
+        font-size: 13px;
     }
 
 }
