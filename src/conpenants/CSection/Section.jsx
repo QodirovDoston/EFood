@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Section/style.css'
+import '../CSection/style.css'
 const asia = require('../../img/Asian.png')
 const item1 = require('../../img/item1.png')
 const Star = require('../../img/Star.png')

@@ -16,7 +16,6 @@ const search = require("../../img/cart.png")
     </form>
   </div>
 </nav>
-
    < div id='navnar' className="container">
             <div className="row mt-5">
                 <div className="col-3" >
