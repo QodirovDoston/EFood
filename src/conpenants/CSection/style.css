@@ -79,3 +79,25 @@ border-radius: 30px 30px 1px 30px;
 margin-top: 30px;
 border: none;
 }
+@media (max-width:576px) {
+    .super1{
+            text-align: center;
+            margin: auto;
+            font-weight: 200;
+            font-size: 30px;
+            line-height: 46px;
+            margin-top: 31px;
+            margin-bottom: 23px;
+            width: 250px;
+    }
+    #cards {
+        display: grid;
+        margin-left: 62px;
+    }
+    .card {
+        margin-top: 40px;
+        width: 201px;
+        height: 361px;
+        margin-bottom: 20px;
+    }
+}

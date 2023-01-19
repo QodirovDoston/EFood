@@ -40,10 +40,7 @@ backdrop-filter: blur(388.5px); */
 
    
 
-    #cards {
-        display: grid;
-        justify-content: center;
-    }
+   
 
     #fut {
         display: grid;

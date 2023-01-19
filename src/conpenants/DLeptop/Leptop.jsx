@@ -18,15 +18,15 @@ const food = require('../../img/food delivery 4.png')
                         <h1 className='super'><span>Stay </span> at home, we will Provide <span>good food</span> </h1>
                         <p className='poragrow'>We provide tasty food and superfast delivery at your home.  Let’s use our services right now and get discounts of up to 50%.</p>
                     <div className="yetkazib ">
-                        <img src={imfhf} alt="" />
+                        <img id='ser' src={imfhf} alt="" />
                         <h3 className='fast'>fasted delivery in 30 Minutes</h3>
                     </div>
                     <div className="yetkazib">
-                        <img src={imfhf} alt="" />
-                        <h3 className='fast'>fasted delivery in 30 Minutes</h3>
+                        <img id='ser' src={imfhf} alt="" />
+                        <h3  className='fast'>fasted delivery in 30 Minutes</h3>
                     </div>
                     <div className="yetkazib">
-                        <img src={imfhf} alt="" />
+                        <img id='ser' src={imfhf} alt="" />
                         <h3 className='fast'>fasted delivery in 30 Minutes</h3>
                     </div>
                     <button className='btum'>See more</button>
