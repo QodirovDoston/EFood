@@ -18,6 +18,7 @@ import './style.css'
                      <div className="input">
                     <input className='gilamn' type="text" placeholder='Enter your email addres' />
                     <button className='subbtn'>Subscribe</button>
+                    
                      </div>
                 </div>
             </div>

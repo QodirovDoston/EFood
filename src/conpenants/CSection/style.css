@@ -48,56 +48,75 @@
     text-align: center;
     margin-top: 25px;
 }
-.photo{
+
+.photo {
     width: 80%;
     margin: auto;
 }
-.yetkazib{
- display: flex;
- margin-right: 29px;
+
+.yetkazib {
+    display: flex;
+    margin-right: 29px;
 }
-.fast{
+
+.fast {
     font-family: 'Rubik';
-font-size: 24px;
-line-height: 30px;
-text-transform: capitalize;
-color: #363853;
-margin-left: 23px;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+    margin-left: 23px;
 }
-.poragrow{
+
+.poragrow {
     margin-bottom: 35px;
 }
-.food{
+
+.food {
     margin-top: 120px;
 }
-.btum{
+
+.btum {
     width: 176px;
-height: 58px;
-background: #FF7A50;
-box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
-border-radius: 30px 30px 1px 30px;
-margin-top: 30px;
-border: none;
+    height: 58px;
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 30px 30px 1px 30px;
+    margin-top: 30px;
+    border: none;
 }
+
 @media (max-width:576px) {
-    .super1{
-            text-align: center;
-            margin: auto;
-            font-weight: 200;
-            font-size: 30px;
-            line-height: 46px;
-            margin-top: 31px;
-            margin-bottom: 23px;
-            width: 250px;
+    .super1 {
+        text-align: center;
+        margin: auto;
+        font-weight: 200;
+        font-size: 30px;
+        line-height: 46px;
+        margin-top: 31px;
+        margin-bottom: 23px;
+        width: 250px;
     }
+
     #cards {
         display: grid;
         margin-left: 62px;
     }
+
     .card {
         margin-top: 40px;
         width: 201px;
-        height: 361px;
         margin-bottom: 20px;
+        height: 475px;
+
+    }
+
+    .card_btn {
+        margin-top: -7px;
+    }
+
+    .malumot {
+
+        margin-top: -13px;
     }
 }
