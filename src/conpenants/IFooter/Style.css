@@ -59,4 +59,43 @@ color: #646464;
         line-height: 20px;
          
     }
+    #footer{
+        text-align: center;
+        justify-content: center !important;
+    }
+    .serbiya {
+        font-size: 8px;
+        line-height: 25px;
+    }
+    .defo {
+        width: 14px;
+        height: 14px;
+        font-size: 8px;
+    }
+    .serbiya1 {
+        font-weight: 100;
+        font-size: 8px;
+        line-height: 8px;
+    }
+    #kichik {
+        width: 20%;
+    }
+    .efood {
+        margin: -32px 0px 3px 35px;
+        width: 50px;
+    }
+    .callsenter {
+        display: flex;
+        gap: 10px;
+        margin-left: 31px;
+    }
+    .serbiya {
+        font-size: 5px;
+        line-height: 10px;
+        display: flex;
+    }
+    #legener{
+        width: 300px;
+       justify-content: center !important;
+    }
 }

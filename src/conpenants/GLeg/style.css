@@ -22,3 +22,15 @@ letter-spacing: 0.5px;
 color: #363853;
 margin-top: 83px;
 }
+
+@media(max-width:576px){
+    .Jole {
+        font-size: 11px;
+        margin-left: 40px;
+    }
+    .lover {
+        font-size: 8px;
+        margin-left: 41px;
+    }
+    
+}

@@ -6,7 +6,7 @@ const Footer = (props) => {
   return(
     <>
   <div className="container">
-    <div className="row justify-content-around mt-5">
+    <div id='legener' className="row justify-content-around mt-5">
         <div id='kichik' className="col-3"> 
             <img className='efood' src={icon} alt="" />
           <ul className='list_ati'>
@@ -69,7 +69,7 @@ const Footer = (props) => {
   </div>
   <hr />
   <div className="container">
-    <div className="row justify-content-between mt-5">
+    <div id="footer" className="row justify-content-between mt-5">
       <div className="col-5">
         <p className='privade'>© 2021 EFood - All rights reserved.</p>
       </div>

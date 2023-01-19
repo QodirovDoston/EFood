@@ -10,6 +10,7 @@ body {
     /* background: linear-gradient(113.59deg, rgba(193, 193, 193, 0) -2.01%, rgba(165, 165, 165, 0.2) 103.74%);
 backdrop-filter: blur(388.5px); */
     background-color: azure;
+    
 }
 
 .navbar {
@@ -30,18 +31,6 @@ backdrop-filter: blur(388.5px); */
         display: flex;
 
     }
-
-   
-    #inputt {
-        width: 314px;
-        height: 444px;
-
-    }
-
-   
-
-   
-
     #fut {
         display: grid;
     }
@@ -53,5 +42,8 @@ backdrop-filter: blur(388.5px); */
     }
     .imfd{
         width: 271px;
+    }
+    body{
+        overflow-x: hidden;
     }
 }
